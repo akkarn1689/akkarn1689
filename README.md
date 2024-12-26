@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <h3>📌&nbsp&nbspFind me on</h3>
  <br>
 <p>
-  <a href="https://www.linkedin.com/in/ayush-saxena-b5b099203">
+  <a href="https://www.linkedin.com/in/karnashish16">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
   </a>
 </p>
